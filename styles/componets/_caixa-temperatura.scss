@@ -1,0 +1,11 @@
+.caixa-temperatura {
+  display: flex;
+  max-width: 100%;
+  justify-content: center;
+  align-items: center;
+  .temperatura-min, .temperatura-max {
+    font-size: 14px;
+    color: #fff;
+    margin: 0 10px 0 0;
+  }
+}
