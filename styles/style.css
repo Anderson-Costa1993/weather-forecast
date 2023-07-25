@@ -1,6 +1,6 @@
 .caixa-maior {
   background-color: #000;
-  opacity: 0.8;
+  opacity: 0.9;
   border-radius: 25px;
   padding: 2em;
   margin: 0 1em;
@@ -13,7 +13,7 @@
   border-radius: 10px;
   padding: 10px;
   font-size: 20px;
-  background-color: rgba(124, 124, 124, 0.168627451);
+  background-color: rgba(133, 132, 132, 0.168627451);
   color: white;
   width: calc(100% - 70px);
 }
